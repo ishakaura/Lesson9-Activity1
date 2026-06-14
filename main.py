@@ -1,12 +1,8 @@
-# Typography Example
+# Transform Example
 
 css_code = """
-h1 {
-    font-family: Arial;
-    font-size: 30px;
-    font-weight: bold;
-    color: blue;
-    text-align: center;
+.box {
+    transform: rotate(45deg);
 }
 """
 
